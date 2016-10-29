@@ -1,0 +1,3 @@
+Autzen Stadium, 44.0583, -123.0685
+Hayward Field, 44.0424, -123.0707
+Whole Foods, 44.0500, -123.0876
